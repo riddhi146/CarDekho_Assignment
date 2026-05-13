@@ -1,0 +1,1170 @@
+{
+  "cars": [
+    {
+      "make": "Maruti Suzuki",
+      "model": "Swift",
+      "variant": "VXI",
+      "price": 649000,
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "power": "89 bhp",
+        "torque": "113 Nm"
+      },
+      "mileage": "23.2 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 5, "comment": "Great mileage and low maintenance"},
+        {"rating": 4, "comment": "Fun to drive in city"},
+        {"rating": 4, "comment": "Good value for money"}
+      ],
+      "body_type": "Hatchback",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Baleno",
+      "variant": "Alpha",
+      "price": 995000,
+      "specs": {
+        "engine": "1.2L DualJet",
+        "transmission": "AMT",
+        "fuel_type": "Petrol",
+        "power": "89 bhp",
+        "torque": "113 Nm"
+      },
+      "mileage": "19.5 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 5, "comment": "Premium features at good price"},
+        {"rating": 4, "comment": "Spacious and comfortable"},
+        {"rating": 5, "comment": "Excellent mileage"}
+      ],
+      "body_type": "Hatchback",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Dzire",
+      "variant": "ZXI+",
+      "price": 990000,
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "AMT",
+        "fuel_type": "Petrol",
+        "power": "89 bhp",
+        "torque": "113 Nm"
+      },
+      "mileage": "22.6 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 4, "comment": "Best sedan in its segment"},
+        {"rating": 5, "comment": "Very fuel efficient"},
+        {"rating": 4, "comment": "Comfortable for long drives"}
+      ],
+      "body_type": "Sedan",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Ertiga",
+      "variant": "ZXI+",
+      "price": 1395000,
+      "specs": {
+        "engine": "1.5L Petrol",
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "power": "103 bhp",
+        "torque": "138 Nm"
+      },
+      "mileage": "17.5 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 5, "comment": "Perfect family car"},
+        {"rating": 4, "comment": "Spacious 7-seater"},
+        {"rating": 5, "comment": "Reliable and economical"}
+      ],
+      "body_type": "MPV",
+      "number_of_seats": 7
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Brezza",
+      "variant": "ZXI+",
+      "price": 1195000,
+      "specs": {
+        "engine": "1.5L Petrol",
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "power": "103 bhp",
+        "torque": "138 Nm"
+      },
+      "mileage": "18.8 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 4, "comment": "Compact SUV with good features"},
+        {"rating": 5, "comment": "Great for city driving"},
+        {"rating": 4, "comment": "Good ground clearance"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Hyundai",
+      "model": "i20",
+      "variant": "Asta Option",
+      "price": 975000,
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "power": "88 bhp",
+        "torque": "115 Nm"
+      },
+      "mileage": "20.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Premium interior and features"},
+        {"rating": 4, "comment": "Stylish design"},
+        {"rating": 5, "comment": "Excellent safety features"}
+      ],
+      "body_type": "Hatchback",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Hyundai",
+      "model": "Creta",
+      "variant": "SX(O)",
+      "price": 1795000,
+      "specs": {
+        "engine": "1.5L Turbo",
+        "transmission": "DCT",
+        "fuel_type": "Petrol",
+        "power": "158 bhp",
+        "torque": "253 Nm"
+      },
+      "mileage": "16.8 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Best compact SUV"},
+        {"rating": 5, "comment": "Powerful engine"},
+        {"rating": 4, "comment": "Feature-loaded"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Hyundai",
+      "model": "Venue",
+      "variant": "SX Option",
+      "price": 1195000,
+      "specs": {
+        "engine": "1.0L Turbo GDi",
+        "transmission": "DCT",
+        "fuel_type": "Petrol",
+        "power": "120 bhp",
+        "torque": "172 Nm"
+      },
+      "mileage": "18.2 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 4, "comment": "Compact and powerful"},
+        {"rating": 5, "comment": "Great technology features"},
+        {"rating": 4, "comment": "Fun to drive"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Hyundai",
+      "model": "Verna",
+      "variant": "SX(O)",
+      "price": 1595000,
+      "specs": {
+        "engine": "1.5L Turbo",
+        "transmission": "DCT",
+        "fuel_type": "Petrol",
+        "power": "160 bhp",
+        "torque": "253 Nm"
+      },
+      "mileage": "17.3 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Performance sedan"},
+        {"rating": 4, "comment": "Premium feel"},
+        {"rating": 5, "comment": "Excellent engine"}
+      ],
+      "body_type": "Sedan",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Hyundai",
+      "model": "Alcazar",
+      "variant": "Prestige",
+      "price": 1995000,
+      "specs": {
+        "engine": "1.5L Turbo",
+        "transmission": "DCT",
+        "fuel_type": "Petrol",
+        "power": "160 bhp",
+        "torque": "253 Nm"
+      },
+      "mileage": "16.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 4, "comment": "Premium 3-row SUV"},
+        {"rating": 5, "comment": "Luxurious interior"},
+        {"rating": 4, "comment": "Good for families"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 7
+    },
+    {
+      "make": "Tata",
+      "model": "Nexon",
+      "variant": "XZ+",
+      "price": 1295000,
+      "specs": {
+        "engine": "1.2L Turbo",
+        "transmission": "AMT",
+        "fuel_type": "Petrol",
+        "power": "120 bhp",
+        "torque": "170 Nm"
+      },
+      "mileage": "17.8 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "5-star safety rating"},
+        {"rating": 4, "comment": "Sturdy build quality"},
+        {"rating": 5, "comment": "Great value"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Tata",
+      "model": "Punch",
+      "variant": "Adventure",
+      "price": 895000,
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "AMT",
+        "fuel_type": "Petrol",
+        "power": "86 bhp",
+        "torque": "113 Nm"
+      },
+      "mileage": "18.8 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "5-star safety in micro SUV"},
+        {"rating": 4, "comment": "Compact and practical"},
+        {"rating": 5, "comment": "Great for city"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Tata",
+      "model": "Harrier",
+      "variant": "XZ+",
+      "price": 1895000,
+      "specs": {
+        "engine": "2.0L Diesel",
+        "transmission": "Automatic",
+        "fuel_type": "Diesel",
+        "power": "170 bhp",
+        "torque": "350 Nm"
+      },
+      "mileage": "15.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Premium SUV experience"},
+        {"rating": 4, "comment": "Powerful diesel engine"},
+        {"rating": 5, "comment": "Road presence"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Tata",
+      "model": "Safari",
+      "variant": "XZ+",
+      "price": 2195000,
+      "specs": {
+        "engine": "2.0L Diesel",
+        "transmission": "Automatic",
+        "fuel_type": "Diesel",
+        "power": "170 bhp",
+        "torque": "350 Nm"
+      },
+      "mileage": "14.2 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Best 7-seater SUV"},
+        {"rating": 4, "comment": "Luxurious interior"},
+        {"rating": 5, "comment": "Great for road trips"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 7
+    },
+    {
+      "make": "Tata",
+      "model": "Tiago",
+      "variant": "XZ+",
+      "price": 695000,
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "AMT",
+        "fuel_type": "Petrol",
+        "power": "86 bhp",
+        "torque": "113 Nm"
+      },
+      "mileage": "20.5 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 4, "comment": "Affordable and feature-rich"},
+        {"rating": 5, "comment": "Good build quality"},
+        {"rating": 4, "comment": "City friendly"}
+      ],
+      "body_type": "Hatchback",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Mahindra",
+      "model": "Thar",
+      "variant": "AX",
+      "price": 1195000,
+      "specs": {
+        "engine": "2.0L mStallion",
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "power": "150 bhp",
+        "torque": "320 Nm"
+      },
+      "mileage": "15.2 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 5, "comment": "Iconic off-roader"},
+        {"rating": 5, "comment": "Great road presence"},
+        {"rating": 4, "comment": "Fun to drive"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 4
+    },
+    {
+      "make": "Mahindra",
+      "model": "Scorpio-N",
+      "variant": "Z8",
+      "price": 1895000,
+      "specs": {
+        "engine": "2.2L mHawk",
+        "transmission": "Automatic",
+        "fuel_type": "Diesel",
+        "power": "175 bhp",
+        "torque": "400 Nm"
+      },
+      "mileage": "14.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Powerful and rugged"},
+        {"rating": 5, "comment": "Great off-road capability"},
+        {"rating": 4, "comment": "Premium features"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 7
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV700",
+      "variant": "AX7",
+      "price": 2195000,
+      "specs": {
+        "engine": "2.0L mStallion",
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "power": "200 bhp",
+        "torque": "380 Nm"
+      },
+      "mileage": "13.8 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Premium SUV with ADAS"},
+        {"rating": 5, "comment": "Powerful engine"},
+        {"rating": 5, "comment": "Best in class features"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 7
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV300",
+      "variant": "W8",
+      "price": 1295000,
+      "specs": {
+        "engine": "1.2L Turbo",
+        "transmission": "AMT",
+        "fuel_type": "Petrol",
+        "power": "110 bhp",
+        "torque": "200 Nm"
+      },
+      "mileage": "17.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "5-star safety"},
+        {"rating": 4, "comment": "Compact and powerful"},
+        {"rating": 4, "comment": "Good handling"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Mahindra",
+      "model": "Bolero",
+      "variant": "SLE",
+      "price": 995000,
+      "specs": {
+        "engine": "1.5L mHawk",
+        "transmission": "Manual",
+        "fuel_type": "Diesel",
+        "power": "76 bhp",
+        "torque": "210 Nm"
+      },
+      "mileage": "15.5 kmpl",
+      "safety_rating": 3,
+      "user_reviews": [
+        {"rating": 4, "comment": "Rugged and reliable"},
+        {"rating": 4, "comment": "Low maintenance"},
+        {"rating": 3, "comment": "Basic but sturdy"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 7
+    },
+    {
+      "make": "Kia",
+      "model": "Seltos",
+      "variant": "X-Line",
+      "price": 1995000,
+      "specs": {
+        "engine": "1.5L Turbo GDi",
+        "transmission": "DCT",
+        "fuel_type": "Petrol",
+        "power": "160 bhp",
+        "torque": "253 Nm"
+      },
+      "mileage": "16.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Stylish and feature-rich"},
+        {"rating": 5, "comment": "Great performance"},
+        {"rating": 4, "comment": "Premium feel"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Kia",
+      "model": "Sonet",
+      "variant": "X-Line",
+      "price": 1395000,
+      "specs": {
+        "engine": "1.0L Turbo GDi",
+        "transmission": "DCT",
+        "fuel_type": "Petrol",
+        "power": "120 bhp",
+        "torque": "172 Nm"
+      },
+      "mileage": "18.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Best compact SUV"},
+        {"rating": 4, "comment": "Feature-packed"},
+        {"rating": 5, "comment": "Great design"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Kia",
+      "model": "Carnival",
+      "variant": "Limousine",
+      "price": 3495000,
+      "specs": {
+        "engine": "2.2L Diesel",
+        "transmission": "Automatic",
+        "fuel_type": "Diesel",
+        "power": "200 bhp",
+        "torque": "440 Nm"
+      },
+      "mileage": "12.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Luxury MPV"},
+        {"rating": 5, "comment": "Spacious and comfortable"},
+        {"rating": 4, "comment": "Premium features"}
+      ],
+      "body_type": "MPV",
+      "number_of_seats": 7
+    },
+    {
+      "make": "Toyota",
+      "model": "Innova Crysta",
+      "variant": "2.4 Z",
+      "price": 2195000,
+      "specs": {
+        "engine": "2.4L Diesel",
+        "transmission": "Automatic",
+        "fuel_type": "Diesel",
+        "power": "150 bhp",
+        "torque": "343 Nm"
+      },
+      "mileage": "13.5 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 5, "comment": "Most reliable MPV"},
+        {"rating": 5, "comment": "Great for families"},
+        {"rating": 4, "comment": "Excellent resale value"}
+      ],
+      "body_type": "MPV",
+      "number_of_seats": 7
+    },
+    {
+      "make": "Toyota",
+      "model": "Fortuner",
+      "variant": "4x2",
+      "price": 3495000,
+      "specs": {
+        "engine": "2.8L Diesel",
+        "transmission": "Automatic",
+        "fuel_type": "Diesel",
+        "power": "204 bhp",
+        "torque": "500 Nm"
+      },
+      "mileage": "10.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Legendary reliability"},
+        {"rating": 5, "comment": "Powerful and rugged"},
+        {"rating": 5, "comment": "Great off-roader"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 7
+    },
+    {
+      "make": "Toyota",
+      "model": "Urban Cruiser Hyryder",
+      "variant": "V",
+      "price": 1595000,
+      "specs": {
+        "engine": "1.5L Hybrid",
+        "transmission": "e-CVT",
+        "fuel_type": "Hybrid",
+        "power": "116 bhp",
+        "torque": "141 Nm"
+      },
+      "mileage": "27.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Excellent mileage"},
+        {"rating": 4, "comment": "Smooth hybrid drive"},
+        {"rating": 5, "comment": "Toyota reliability"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Toyota",
+      "model": "Glanza",
+      "variant": "V",
+      "price": 795000,
+      "specs": {
+        "engine": "1.2L DualJet",
+        "transmission": "AMT",
+        "fuel_type": "Petrol",
+        "power": "89 bhp",
+        "torque": "113 Nm"
+      },
+      "mileage": "22.5 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 4, "comment": "Good mileage"},
+        {"rating": 4, "comment": "Reliable"},
+        {"rating": 4, "comment": "Value for money"}
+      ],
+      "body_type": "Hatchback",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Honda",
+      "model": "City",
+      "variant": "ZX",
+      "price": 1895000,
+      "specs": {
+        "engine": "1.5L i-VTEC",
+        "transmission": "CVT",
+        "fuel_type": "Petrol",
+        "power": "121 bhp",
+        "torque": "145 Nm"
+      },
+      "mileage": "18.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Premium sedan"},
+        {"rating": 5, "comment": "Smooth CVT"},
+        {"rating": 4, "comment": "Spacious interior"}
+      ],
+      "body_type": "Sedan",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Honda",
+      "model": "Amaze",
+      "variant": "VX",
+      "price": 995000,
+      "specs": {
+        "engine": "1.2L i-VTEC",
+        "transmission": "CVT",
+        "fuel_type": "Petrol",
+        "power": "90 bhp",
+        "torque": "110 Nm"
+      },
+      "mileage": "18.6 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 4, "comment": "Compact sedan"},
+        {"rating": 4, "comment": "Good mileage"},
+        {"rating": 4, "comment": "Honda reliability"}
+      ],
+      "body_type": "Sedan",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Honda",
+      "model": "Jazz",
+      "variant": "VX",
+      "price": 1095000,
+      "specs": {
+        "engine": "1.2L i-VTEC",
+        "transmission": "CVT",
+        "fuel_type": "Petrol",
+        "power": "90 bhp",
+        "torque": "110 Nm"
+      },
+      "mileage": "17.5 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 4, "comment": "Practical hatchback"},
+        {"rating": 5, "comment": "Magic seats"},
+        {"rating": 4, "comment": "Spacious"}
+      ],
+      "body_type": "Hatchback",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Skoda",
+      "model": "Slavia",
+      "variant": "Style",
+      "price": 1495000,
+      "specs": {
+        "engine": "1.0L TSI",
+        "transmission": "TC",
+        "fuel_type": "Petrol",
+        "power": "115 bhp",
+        "torque": "178 Nm"
+      },
+      "mileage": "18.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Premium build quality"},
+        {"rating": 4, "comment": "Great handling"},
+        {"rating": 5, "comment": "Powerful TSI engine"}
+      ],
+      "body_type": "Sedan",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Skoda",
+      "model": "Kushaq",
+      "variant": "Style",
+      "price": 1595000,
+      "specs": {
+        "engine": "1.0L TSI",
+        "transmission": "TC",
+        "fuel_type": "Petrol",
+        "power": "115 bhp",
+        "torque": "178 Nm"
+      },
+      "mileage": "17.8 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "German engineering"},
+        {"rating": 4, "comment": "Solid build"},
+        {"rating": 4, "comment": "Fun to drive"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Virtus",
+      "variant": "Highline",
+      "price": 1495000,
+      "specs": {
+        "engine": "1.0L TSI",
+        "transmission": "TC",
+        "fuel_type": "Petrol",
+        "power": "115 bhp",
+        "torque": "178 Nm"
+      },
+      "mileage": "18.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Premium sedan"},
+        {"rating": 4, "comment": "Great performance"},
+        {"rating": 5, "comment": "Solid build quality"}
+      ],
+      "body_type": "Sedan",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Taigun",
+      "variant": "Topline",
+      "price": 1795000,
+      "specs": {
+        "engine": "1.5L TSI",
+        "transmission": "DSG",
+        "fuel_type": "Petrol",
+        "power": "150 bhp",
+        "torque": "250 Nm"
+      },
+      "mileage": "16.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Powerful 1.5L engine"},
+        {"rating": 4, "comment": "German engineering"},
+        {"rating": 5, "comment": "Great handling"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "MG",
+      "model": "Hector",
+      "variant": "Sharp",
+      "price": 1895000,
+      "specs": {
+        "engine": "1.5L Turbo",
+        "transmission": "DCT",
+        "fuel_type": "Petrol",
+        "power": "143 bhp",
+        "torque": "250 Nm"
+      },
+      "mileage": "14.5 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 5, "comment": "Internet inside"},
+        {"rating": 4, "comment": "Spacious SUV"},
+        {"rating": 4, "comment": "Great features"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "MG",
+      "model": "Astor",
+      "variant": "Savvy",
+      "price": 1495000,
+      "specs": {
+        "engine": "1.3L Turbo",
+        "transmission": "CVT",
+        "fuel_type": "Petrol",
+        "power": "163 bhp",
+        "torque": "230 Nm"
+      },
+      "mileage": "15.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "ADAS features"},
+        {"rating": 4, "comment": "Premium interior"},
+        {"rating": 4, "comment": "Good performance"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "MG",
+      "model": "Comet",
+      "variant": "Exclusive",
+      "price": 995000,
+      "specs": {
+        "engine": "Electric",
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "power": "101 bhp",
+        "torque": "215 Nm"
+      },
+      "mileage": "230 km/charge",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 5, "comment": "Compact electric car"},
+        {"rating": 4, "comment": "Great for city"},
+        {"rating": 5, "comment": "Affordable EV"}
+      ],
+      "body_type": "Hatchback",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Jeep",
+      "model": "Compass",
+      "variant": "Model S",
+      "price": 2295000,
+      "specs": {
+        "engine": "2.0L Diesel",
+        "transmission": "Automatic",
+        "fuel_type": "Diesel",
+        "power": "173 bhp",
+        "torque": "350 Nm"
+      },
+      "mileage": "15.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Premium SUV"},
+        {"rating": 5, "comment": "Great off-roader"},
+        {"rating": 4, "comment": "Brand value"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Renault",
+      "model": "Kiger",
+      "variant": "RXT",
+      "price": 995000,
+      "specs": {
+        "engine": "1.0L Turbo",
+        "transmission": "CVT",
+        "fuel_type": "Petrol",
+        "power": "100 bhp",
+        "torque": "160 Nm"
+      },
+      "mileage": "18.5 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 4, "comment": "Value for money"},
+        {"rating": 4, "comment": "Compact SUV"},
+        {"rating": 4, "comment": "Good features"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Nissan",
+      "model": "Magnite",
+      "variant": "Turbo",
+      "price": 1095000,
+      "specs": {
+        "engine": "1.0L Turbo",
+        "transmission": "CVT",
+        "fuel_type": "Petrol",
+        "power": "100 bhp",
+        "torque": "160 Nm"
+      },
+      "mileage": "18.2 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 4, "comment": "Affordable SUV"},
+        {"rating": 4, "comment": "Good mileage"},
+        {"rating": 4, "comment": "Compact design"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Citroen",
+      "model": "C3",
+      "variant": "Feel",
+      "price": 895000,
+      "specs": {
+        "engine": "1.2L Turbo",
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "power": "110 bhp",
+        "torque": "205 Nm"
+      },
+      "mileage": "19.5 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 4, "comment": "Unique design"},
+        {"rating": 4, "comment": "Comfortable ride"},
+        {"rating": 4, "comment": "Good value"}
+      ],
+      "body_type": "Hatchback",
+      "number_of_seats": 5
+    },
+    {
+      "make": "BYD",
+      "model": "Atto 3",
+      "variant": "Superior",
+      "price": 3495000,
+      "specs": {
+        "engine": "Electric",
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "power": "204 bhp",
+        "torque": "310 Nm"
+      },
+      "mileage": "521 km/charge",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Long range EV"},
+        {"rating": 5, "comment": "Premium features"},
+        {"rating": 4, "comment": "Good charging speed"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Tata",
+      "model": "Nexon EV",
+      "variant": "Long Range",
+      "price": 1895000,
+      "specs": {
+        "engine": "Electric",
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "power": "143 bhp",
+        "torque": "215 Nm"
+      },
+      "mileage": "465 km/charge",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Best selling EV"},
+        {"rating": 5, "comment": "Good range"},
+        {"rating": 5, "comment": "5-star safety"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV400",
+      "variant": "EL",
+      "price": 1595000,
+      "specs": {
+        "engine": "Electric",
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "power": "150 bhp",
+        "torque": "310 Nm"
+      },
+      "mileage": "456 km/charge",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Electric SUV"},
+        {"rating": 4, "comment": "Good performance"},
+        {"rating": 5, "comment": "Fast charging"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Hyundai",
+      "model": "Ioniq 5",
+      "variant": "Long Range",
+      "price": 4595000,
+      "specs": {
+        "engine": "Electric",
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "power": "217 bhp",
+        "torque": "350 Nm"
+      },
+      "mileage": "631 km/charge",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Futuristic design"},
+        {"rating": 5, "comment": "Ultra fast charging"},
+        {"rating": 5, "comment": "Premium EV"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Grand Vitara",
+      "variant": "Alpha",
+      "price": 1795000,
+      "specs": {
+        "engine": "1.5L Hybrid",
+        "transmission": "e-CVT",
+        "fuel_type": "Hybrid",
+        "power": "116 bhp",
+        "torque": "141 Nm"
+      },
+      "mileage": "27.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Excellent mileage"},
+        {"rating": 4, "comment": "All-wheel drive option"},
+        {"rating": 5, "comment": "Hybrid technology"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Fronx",
+      "variant": "Alpha Turbo",
+      "price": 1295000,
+      "specs": {
+        "engine": "1.0L Turbo",
+        "transmission": "AMT",
+        "fuel_type": "Petrol",
+        "power": "100 bhp",
+        "torque": "148 Nm"
+      },
+      "mileage": "20.5 kmpl",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 5, "comment": "Sporty design"},
+        {"rating": 4, "comment": "Good performance"},
+        {"rating": 4, "comment": "Feature-rich"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Hyundai",
+      "model": "Exter",
+      "variant": "SX(O)",
+      "price": 895000,
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "AMT",
+        "fuel_type": "Petrol",
+        "power": "83 bhp",
+        "torque": "114 Nm"
+      },
+      "mileage": "19.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 4, "comment": "Compact SUV"},
+        {"rating": 5, "comment": "Good safety"},
+        {"rating": 4, "comment": "Stylish"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Tata",
+      "model": "Altroz",
+      "variant": "XZ+",
+      "price": 895000,
+      "specs": {
+        "engine": "1.2L Turbo",
+        "transmission": "DCT",
+        "fuel_type": "Petrol",
+        "power": "110 bhp",
+        "torque": "175 Nm"
+      },
+      "mileage": "18.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "5-star safety"},
+        {"rating": 4, "comment": "Premium hatchback"},
+        {"rating": 4, "comment": "Spacious"}
+      ],
+      "body_type": "Hatchback",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "WagonR",
+      "variant": "ZXI+",
+      "price": 695000,
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "AMT",
+        "fuel_type": "Petrol",
+        "power": "89 bhp",
+        "torque": "113 Nm"
+      },
+      "mileage": "22.5 kmpl",
+      "safety_rating": 3,
+      "user_reviews": [
+        {"rating": 4, "comment": "Practical city car"},
+        {"rating": 5, "comment": "Great mileage"},
+        {"rating": 4, "comment": "Spacious interior"}
+      ],
+      "body_type": "Hatchback",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Celerio",
+      "variant": "ZXI+",
+      "price": 645000,
+      "specs": {
+        "engine": "1.0L Petrol",
+        "transmission": "AMT",
+        "fuel_type": "Petrol",
+        "power": "67 bhp",
+        "torque": "89 Nm"
+      },
+      "mileage": "24.5 kmpl",
+      "safety_rating": 3,
+      "user_reviews": [
+        {"rating": 4, "comment": "Budget friendly"},
+        {"rating": 5, "comment": "Excellent mileage"},
+        {"rating": 4, "comment": "Easy to park"}
+      ],
+      "body_type": "Hatchback",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Hyundai",
+      "model": "Aura",
+      "variant": "SX",
+      "price": 895000,
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "AMT",
+        "fuel_type": "CNG",
+        "power": "69 bhp",
+        "torque": "95 Nm"
+      },
+      "mileage": "22.5 km/kg",
+      "safety_rating": 4,
+      "user_reviews": [
+        {"rating": 4, "comment": "CNG option available"},
+        {"rating": 4, "comment": "Compact sedan"},
+        {"rating": 4, "comment": "Good features"}
+      ],
+      "body_type": "Sedan",
+      "number_of_seats": 5
+    },
+    {
+      "make": "Honda",
+      "model": "Elevate",
+      "variant": "ZX",
+      "price": 1695000,
+      "specs": {
+        "engine": "1.5L i-VTEC",
+        "transmission": "CVT",
+        "fuel_type": "Petrol",
+        "power": "121 bhp",
+        "torque": "145 Nm"
+      },
+      "mileage": "16.5 kmpl",
+      "safety_rating": 5,
+      "user_reviews": [
+        {"rating": 5, "comment": "Honda's first SUV"},
+        {"rating": 4, "comment": "Reliable engine"},
+        {"rating": 5, "comment": "Spacious"}
+      ],
+      "body_type": "SUV",
+      "number_of_seats": 5
+    }
+  ]
+}
