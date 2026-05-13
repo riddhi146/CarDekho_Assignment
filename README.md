@@ -11,10 +11,10 @@ A full-stack car recommendation system with a two-step workflow:
 3. **Smart Recommendations**: A custom scoring engine filters and ranks cars based on user priorities and use case
 4. **Beautiful UI**: Modern, responsive frontend with dark mode support
 
-**Why We Built It:**
+**Why I Built It:**
 Car buying is overwhelming with hundreds of options. Traditional filters require users to know technical specifications. Our AI approach lets users express needs naturally, making car discovery accessible to everyone.
 
-**What We Deliberately Cut:**
+**What I Deliberately Cut:**
 - User authentication/accounts (kept it stateless for simplicity)
 - Database persistence (uses in-memory state for requirements)
 - Real-time inventory/pricing (static dataset for MVP)
@@ -33,7 +33,7 @@ Car buying is overwhelming with hundreds of options. Traditional filters require
 - **TailwindCSS 4** - Utility-first CSS for rapid, consistent styling without writing custom CSS
 - **No external component libraries** - Built custom UI components for full control and performance
 
-**Why:** Next.js provides SSR, routing, and optimization out of the box. TypeScript catches errors early. TailwindCSS speeds up development significantly. We avoided heavy component libraries to keep the bundle small and maintain full control.
+**Why:** Next.js provides SSR, routing, and optimization out of the box. TypeScript catches errors early. TailwindCSS speeds up development significantly. I avoided heavy component libraries to keep the bundle small and maintain full control.
 
 ### Backend
 - **FastAPI** - Modern, fast Python web framework with automatic API documentation
@@ -93,7 +93,7 @@ Car buying is overwhelming with hundreds of options. Traditional filters require
 4. **API debugging** - Fixed endpoint mismatches and CORS issues through trial and error
 5. **Prompt engineering** - Iterated on Gemini prompts to improve extraction accuracy
 
-## If We Had Another 4 Hours
+## If I Had Another 4 Hours
 
 **Priority 1: User Experience (1 hour)**
 - Add loading skeletons for better perceived performance
