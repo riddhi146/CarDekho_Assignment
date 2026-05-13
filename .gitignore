@@ -15,6 +15,7 @@
 /frontend/AGENTS.md
 /frontend/README.md
 /frontend/CLAUDE.md
+/frontend/.env.local
 
 # Mac
 .DS_Store
